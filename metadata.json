@@ -1,0 +1,6 @@
+{
+  "name": "Nissey Auto Elétrico",
+  "description": "Auto elétrica especializada em Barueri - SP. Baterias, alternadores, injeção eletrônica e som automotivo. Atendimento de excelência e garantia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
